@@ -45,7 +45,7 @@ h1{
 .username{
     opacity: 0.9;
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 500;
     padding-bottom: 35px;
     font-family: 'Lora', sans-serif;
 }
@@ -72,11 +72,6 @@ ul li a{
 ul li a:hover{
     background: white;
     color: #90A890;
-}
-
-ul li p{
-    text-align: start;
-    width: 60px;
 }
 
 button {
